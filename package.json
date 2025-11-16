@@ -1,0 +1,25 @@
+{
+  "name": "project-06-mongo-training",
+  "version": "1.0.0",
+  "description": "Setting up Node.js to connect with MongoDB using the latest best practices",
+  "keywords": [
+    "I",
+    "am",
+    "just",
+    "learning",
+    "basics",
+    "of",
+    "MongoDB"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Usman Banka",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongoose": "^8.19.3"
+  }
+}
